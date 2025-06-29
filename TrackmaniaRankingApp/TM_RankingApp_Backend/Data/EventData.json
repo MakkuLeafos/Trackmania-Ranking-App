@@ -1,0 +1,65 @@
+[
+  {
+    "EventID": 1,
+    "EventName": "Sto\u00DFcup 1",
+    "RankingList": [
+      {
+        "Name": "Marvin",
+        "Rank": 1,
+        "Points": 25
+      },
+      {
+        "Name": "Fabi",
+        "Rank": 4,
+        "Points": 18
+      },
+      {
+        "Name": "Max",
+        "Rank": 11,
+        "Points": 0
+      }
+    ]
+  },
+  {
+    "EventID": 2,
+    "EventName": "Sto\u00DFcup 2",
+    "RankingList": [
+      {
+        "Name": "Fabi",
+        "Rank": 1,
+        "Points": 25
+      },
+      {
+        "Name": "Marvin",
+        "Rank": 2,
+        "Points": 18
+      },
+      {
+        "Name": "Max",
+        "Rank": 6,
+        "Points": 8
+      }
+    ]
+  },
+  {
+    "EventID": 2,
+    "EventName": "Sto\u00DFcup 3",
+    "RankingList": [
+      {
+        "Name": "Jonas",
+        "Rank": 1,
+        "Points": 25
+      },
+      {
+        "Name": "Fabi",
+        "Rank": 3,
+        "Points": 18
+      },
+      {
+        "Name": "Marvin",
+        "Rank": 4,
+        "Points": 8
+      }
+    ]
+  }
+]
